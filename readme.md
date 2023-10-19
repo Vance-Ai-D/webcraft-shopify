@@ -1,4 +1,2 @@
 # Custom Online Store
-- NextJS
-- Shopify API
-- 
+- NextJS and Shopify API
